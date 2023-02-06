@@ -1,0 +1,143 @@
+.parent_box{
+    background-color: #212121;
+    color: #ececec;
+    height: 700px;
+   }
+   *{
+       margin: 0;
+   }
+   .all_divs{
+       display: flex;
+       justify-content: space-around;
+       margin-top: 50px;
+       /* border:4px solid white; */
+       padding: 20px;
+       margin-left: -40px;
+       gap:20px
+   }
+   .single_box{
+       display: flex;
+       flex-direction: column;
+       gap:15px;
+       font-weight: 400;
+       line-height: 16.66px;
+       font-size: 11.9px;
+       font-stretch: 100%;
+       font-family: karla,sans-serif;
+   }
+   .single_box h5{
+       margin-bottom: 25px;
+       font-size: 15px;
+   }
+   .icons_div{
+       display: flex;
+       
+       font-size: 25px     ;
+       margin-top: 20px;
+   }
+   .icons_div div{
+       height: 40px;
+      width: 50px;
+   }
+   .images{
+       height: 35px;
+       width: 45px;
+   }
+   .footer_img{
+       display: flex;
+       position: relative;
+       margin-top: 30px;
+      
+       gap:10px;
+       margin-bottom: 10px;
+   }
+   .main_icon{
+       height: 60px;
+       width: 190px;
+      
+       margin-left: 90px;
+       align-items: center;
+    
+      
+   }
+   .Input{
+       height: 30px;
+       border-bottom: 3px solid white;
+       color: #ececec;
+       font-size: 12px;
+       background-color: #212121;
+       margin-right: -45px;
+       width: 350px;
+      
+   }
+   .input_box_box{
+       gap:10px;
+       font-size: 30px  ;
+       display: flex;
+   }
+   .responsive_box{
+       background-color: #212121;
+       color: #ececec;
+       height: auto;
+       line-height: 3;
+       /* border: 3px solid white; */
+     /* align-content: center; */
+    /* padding-top: 40px; */
+    
+   }
+   .responsive_img{
+       position: absolute;
+      
+       
+       
+   
+   }
+   .responsive_image{
+       height: 60px;
+       width: 190px;
+       align-items: center;
+       margin-bottom: 30px;
+       margin: auto;
+       
+       
+   }
+   .accordtion{
+       margin-top: 40px;
+   }
+   .responsive_boxes{
+     display: flex;
+     
+     flex-direction: column;
+     gap: -10px;
+     text-align: center;
+   }
+   .h5{
+   
+   text-align: center;
+       
+   }
+   .responsive_box{
+       display: none;
+   }
+   /* resonvive */
+   @media only screen and (max-width: 1529px) {
+       .responsive_box{
+        display: none;
+        
+       }
+       .parent_box{
+        display: block;
+       }
+      }
+   @media only screen and (max-width: 768px) {
+      .responsive_box{
+       display: block;
+       /* border: 10px solid red; */
+       
+       margin-top: 200px;
+       
+      }
+      .parent_box{
+       display: none;
+      }
+     }

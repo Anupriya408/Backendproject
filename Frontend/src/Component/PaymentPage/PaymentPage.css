@@ -1,0 +1,206 @@
+.payment_div{
+    display: flex;
+    gap: 0px;
+    padding-bottom: 20px;
+}
+.left_box{
+    width: 65%;
+    box-shadow: 0 0 1px;
+    
+}
+.right_box{
+    width: 45%;
+    box-shadow: 0 0 1px;
+    
+}
+.dressup_img_main_logo{
+    width: 290px;
+    height: 90px;
+    margin: auto;
+    margin-bottom: -10px;
+    margin-top: 20px
+}
+.PaymentPage_options{
+    
+    width: 90%;
+    margin-left: 180px;
+    text-align: center;
+    padding: 0px;
+    border-radius: 8px;
+    gap: 10px;
+    margin-bottom: 10px;
+
+}
+.paymet_img{
+    display: flex;
+    gap: 10px;
+  
+    margin: auto;
+    padding: 30px;
+    
+
+}
+p{
+ 
+    border: none;
+}
+.btn_img{
+    width: 130px;
+    height: 40px;
+    border-radius: 5px;
+}
+.input{
+    width: 100%;
+    box-sizing: border-box;
+    
+
+
+}
+ .placeholder{
+    position: absolute;
+    left: 8px;
+    font-size: 12px;
+    padding: 0px 5px;
+    transition: 0.3s;
+    pointer-events: none;
+    color: black;
+} 
+.input:focus+.placeholder{
+    top:-10px;
+    color: black;
+
+}
+.input_flex_boxes{
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    gap: 10px;
+    margin-top: 25px;
+}
+.contact_info_box{
+    display: flex;
+    justify-content: space-between;
+}
+.Input_papa_box{
+    width: 80%;
+    margin: auto;
+}
+.input{
+    border: 5px solid black;
+    margin-top: 25px;
+    
+    
+}
+.select{
+    margin-top: 25px;
+   align-items: center;
+}
+
+
+.Button{
+    width: auto;
+    padding: 10px;
+    
+}
+.last_box{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.Box_with_data{
+    display: flex;
+    align-content: center;
+    height: 100px;
+    overflow-y: scroll;
+    padding: 20px;
+    justify-content: space-between;
+    text-align: center;
+}
+.inner_box{
+    display: flex;
+        gap:7px
+
+}
+.coupen_box{
+    display: flex;
+    gap:40px
+}
+.pay_boxes{
+    display: flex;
+    justify-content: space-between;
+}
+
+.right_box_baby{
+    width: 85%;
+    margin: auto;
+}
+@media only screen and (max-width: 920px) {
+    .payment_div{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    } 
+    .left_box{
+        width: 90%;
+        margin: auto;
+        box-shadow: 0 0 1px;
+        /* border: 2px solid black; */
+    }
+    .right_box{
+       display: none;
+        
+    }
+    .paymet_img{
+        display: flex;
+        gap: 10px;
+        width: 450px;
+        justify-content: space-around;
+        margin: auto;
+        position: relative;
+        padding: 10px;
+    }
+}
+@media only screen and (max-width: 590px) {
+    .paymet_img{
+        display: flex;
+        gap: 10px;
+        width: 290px;
+        margin: auto;
+        position: relative;
+        padding: 10px;
+    }
+}
+.card_box_input{
+    display: flex;
+    gap:10px
+}
+.errors{
+    color: #d98e70;
+}
+.images_card_box{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    box-shadow: 0cm;
+}
+.image_card{
+    width: 60px;
+    height: 30px;
+}
+.order_box{
+    padding: 10px;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+@media only screen and (max-width: 790px) {
+   .success{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-left: -10px;
+   }
+}

@@ -1,0 +1,386 @@
+[
+  { 
+    "name": "BHLDN Freya Satin Charmeuse Dress",
+    "image_1":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/image_83f9838e-9940-4a68-913a-fd27d31b08c6_1800x1800.jpg?v=1669947270",
+    "image_2":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_women_pullover-4_540x.jpg?v=1669225482",
+    "image_3": "https://cdn.shopify.com/s/files/1/0339/0901/products/0R4A2166_720x.jpg?v=1669947270",
+    "image_4": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_knit_sweater-12_79417f57-af5f-447e-b9e6-97f9b6c82176_120x.jpg?v=1669947270",
+    "image_5": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_knit_sweater-7_2fe28b0f-a7ee-476b-9e51-bc06f5fd2436_120x.jpg?v=1669947270",
+    "price": 50,
+    "sold" : 5,
+    "manufacture_date" : 1990,
+    "size" : "M",
+    "color" : "green",
+    "stock" : true,
+    "reviews":[]
+  },
+  { 
+    "name": "Society James Emilia Topper",
+    "image_1":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_tree_pullover-5_540x.jpg?v=1669239080",
+    "image_2":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_tree_pullover-3_540x.jpg?v=1669239098",
+    "image_3":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_tree_pullover-4_120x.jpg?v=1669239156",
+    "image_4":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_tree_pullover-7_120x.jpg?v=1669239156",
+    "image_5":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_tree_pullover_120x.jpg?v=1669239156",
+    "price": 425,
+    "sold" : 50,
+    "manufacture_date" : 1994,
+    "color" : "green",
+    "size" : "S",
+    "stock":true
+,    "reviews":[]
+
+  },
+  {  
+    "name": "Significant Other Gracie Dress",
+    "image_1":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_ivory_merry_pullover-2_360x.jpg?v=1669238895",
+    "image_2":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_ivory_merry_pullover-5_540x.jpg?v=1669238905",
+    "image_3":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_ivory_merry_pullover-8_120x.jpg?v=1669238955",
+    "image_4":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_ivory_merry_pullover_120x.jpg?v=1669238955",
+    "image_5":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_ivory_merry_pullover-9_120x.jpg?v=1669238955",
+    "price": 276,
+    "sold" : 10,
+    "manufacture_date" : 2000,
+    "color" : "white",
+    "size" : "M",
+    "stock":false,
+    "reviews":[]
+  },
+  {  
+    "name": "Logan Velvet Dress",
+    "image_1":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_merry_pullover-5_360x.jpg?v=1669238752",
+    "image_2":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_merry_pullover-3_540x.jpg?v=1669238762",
+    "image_3":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_merry_pullover-7_120x.jpg?v=1669238807",
+    "image_4":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_merry_pullover-8_120x.jpg?v=1669238807https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_merry_pullover-7_120x.jpg?v=1669238807",
+    "image_5":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_merry_pullover-6_120x.jpg?v=1669238807",
+    "price": 90,
+    "sold" : 60,
+    "manufacture_date" : 2005,
+    "color" : "green",
+    "size" : "L",
+    "stock":false,
+    "reviews":[]
+
+  },
+  { 
+    "name": "Retrofete Zion Silk Dress",
+    "image_1":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_merry_bright_pullover-3_360x.jpg?v=1669238592",
+    "image_2":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_merry_bright_pullover-5_540x.jpg?v=1669238603",
+    "image_3":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_merry_bright_pullover-6_120x.jpg?v=1669238657",
+    "image_4":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_merry_bright_pullover-2_120x.jpg?v=1669238657",
+    "image_5":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_merry_bright_pullover-7_120x.jpg?v=1669238657",
+    "price": 95,
+    "sold" : 40,
+    "manufacture_date" : 1997,
+    "color" : "green",
+    "size" : "S",
+    "stock":true
+,    "reviews":[]
+  },
+  { 
+    "name": "BHLDN Remy Satin Charmeuse Dress",
+    "image_1":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_grey_merry_pullover-2_360x.jpg?v=1669238424",
+    "image_2":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_grey_merry_pullover-5_540x.jpg?v=1669238434",
+    "image_3":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_grey_merry_pullover-7_120x.jpg?v=1669238448",
+    "image_4":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_grey_merry_pullover-8_120x.jpg?v=1669238448",
+    "image_5":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_grey_merry_pullover-6_120x.jpg?v=1669238449",
+    "price": 48,
+    "sold" : 10,
+    "manufacture_date" : 2000,
+    "color" : "gray",
+    "size" : "M",
+    "stock":false,
+    "reviews":[]
+  },
+  {  
+    "name": "BHLDN Miranda Crepe Midi Dress",
+    "image_1":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_plaid_flannel-7_fd64dce3-7999-4b6c-8681-20ea06ceabb4_540x.jpg?v=1669257370",
+    "image_2":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_plaid_flannel-4_34a437d1-8988-4c7d-838f-b140f975c61f_540x.jpg?v=1669257383",
+    "image_3":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_plaid_flannel-10_e6a11695-d5c9-4e47-b7dd-091f06c240ac_120x.jpg?v=1669257431",
+    "image_4":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_plaid_flannel-9_6bdb3c33-d510-4b0a-8026-584a104654ce_120x.jpg?v=1669257481",
+    "image_5":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_plaid_flannel-5_e11c33ce-93a6-4f53-a0b4-255ff8b42e2a_120x.jpg?v=1669257481",
+    "price": 68,
+    "sold" : 10,
+    "manufacture_date" : 2009,
+    "color" : "green",
+    "size" : "L",
+    "stock":true
+,    "reviews":[]
+  },
+  {  
+    "name": "Sleeper Atlanta Linen Dress",
+    "image_1":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_chenille_sweater-3_19ea7ed8-16e0-4640-96b0-7bb7bcf3c648_540x.jpg?v=1669259154",
+    "image_2":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_chenille_sweater-7_1759b3f0-4305-4b9b-bd20-dce6d1eabf15_540x.jpg?v=1669259154",
+      "image_3":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_chenille_sweater-4_04cb157e-7cd1-473b-aa7d-b4beb668e4a1_120x.jpg?v=1669259154",
+    "image_4":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_chenille_sweater_47ff72f2-d215-4a70-870b-b003fd3b19e8_120x.jpg?v=1669259154",
+    "image_5":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_chenille_sweater-11_b5cec9b3-0dd6-4654-95d1-cef1eeb947a8_120x.jpg?v=1669258925",
+    "price": 320,
+    "sold" : 45,
+    "manufacture_date" : 2003,
+    "color" : "gray",
+    "size" : "M",
+    "stock":false,
+    "reviews":[]
+  },
+  {
+    "name": "Jenny Yoo Issa Velvet Dress",
+    "image_1":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_vneck_sweater-8_540x.jpg?v=1669258614",
+    "image_2":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_vneck_sweater-3_540x.jpg?v=1669258651",
+      "image_3":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_vneck_sweater-5_120x.jpg?v=1669258654",
+    "image_4":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_vneck_sweater-4_120x.jpg?v=1669258702",
+    "image_5":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_vneck_sweater-6_120x.jpg?v=1669258702",
+   
+    "price": 395,
+    "manufacture_date" : 1999,
+    "color" : "green",
+    "size" : "S",
+    "stock":true
+,    "reviews":[]
+  },
+  {   
+    "name": "Snuggled Up Chenille Sweater",
+    "image_1":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_turtleneck_sweater-3_540x.jpg?v=1669258403",
+    "image_2":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_turtleneck_sweater-11_120x.jpg?v=1669258321",
+    "image_3":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_turtleneck_sweater-7_120x.jpg?v=1669258439",
+    "image_4":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_turtleneck_sweater-6_120x.jpg?v=1669258472",
+    "image_5":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_turtleneck_sweater-13_720x.jpg?v=1669258455",
+   
+    "price": 290,
+   
+    "sold" : 30,
+    "manufacture_date" : 2005,
+    "color" : "gray",
+    "size" : "L",
+    "stock":false,
+    "reviews":[]
+  },
+  { 
+    "name": "Sachin & Babi Sierra Satin Midi Dress",
+    "image_1":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_rust_turtleneck_sweater-4_540x.jpg?v=1669258165",
+    "image_2":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_rust_turtleneck_sweater-2_540x.jpg?v=1669258175",
+    "image_3":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/image_e287ccf6-e0f1-4fdc-a433-81c683aa0269_120x.jpg?v=1666830941",
+    "image_4":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_oversized_sweater-23_b495ffa0-f567-49fa-8f65-042beb54e9e2_120x.jpg?v=1666830941",
+    "image_5":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_oversized_sweater-29_120x.jpg?v=1666830941",
+    "price": 150,
+    "sold" : 150,
+    "manufacture_date" : 2019,
+    "color" : "red",
+    "size" : "S",
+    "stock":false,
+    "reviews":[]
+  },
+  { 
+    
+    "name": "Perfect Mix Henley Pullover",
+    "image_1":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/image_36c39b37-86fa-443b-b121-a563eeef1b8d_720x.jpg?v=1664144421",
+    "image_2":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_grey_henley_top-2_78278a78-31c7-432d-b679-12d46e1a56fd_120x.jpg?v=1664144421",
+    "image_3":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_grey_henley_top-5_7c892a89-43b3-48ef-bc83-e75773bb4d6a_120x.jpg?v=1664144421",
+    "image_4":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_grey_henley_top-6_2457590c-c25c-475c-8504-eb5da3bb06a4_120x.jpg?v=1664144421",
+    "image_5":
+      "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_grey_henley_top_30e2214f-90cb-4f1d-b856-8159daa3eebf_120x.jpg?v=1664144421",
+    "price": 220,
+    "sold" : 40,
+    "manufacture_date" : 2020,
+    "color" : "gray",
+    "size" : "M",
+    "stock":true
+,    "reviews":[]
+  },
+
+  { 
+  "name": "Chilly Weather Color Block Sweater",
+  "image_1":
+    "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_color_block_knit_sweater_9fe24df9-403a-44ec-8f91-ba027ae9a741_720x.jpg?v=1669396774",
+  "image_2":
+    "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_color_block_knit_sweater-2_540x.jpg?v=1669396822",
+  "image_3": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_color_block_knit_sweater-6_dec47aaf-44f4-48c6-bf7a-e27b339f3cdd_120x.jpg?v=1669396899",
+  "image_4": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_color_block_knit_sweater-3_9337b650-8944-4814-a0f8-e560999d77fe_120x.jpg?v=1669396899",
+  "image_5": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_color_block_knit_sweater-4_1d21cc2d-ce0a-4937-a74b-0fb94879a768_120x.jpg?v=1669396899",
+  "price": 220,
+  "sold" : 25,
+  "manufacture_date" : 2010,
+  "color" : "red",
+  "size" : "S",
+  "stock" : true,
+  "reviews":[]
+},
+{ 
+"name": "Real Relaxation Aztec Cardigan",
+"image_1":
+  "https://cdn.shopify.com/s/files/1/0339/0901/products/0R4A5775_720x.jpg?v=1669591762",
+"image_2":
+  "https://cdn.shopify.com/s/files/1/0339/0901/products/0R4A5760_540x.jpg?v=1669591771",
+"image_3": "https://cdn.shopify.com/s/files/1/0339/0901/products/0R4A5808_120x.jpg?v=1669591774",
+"image_4": "https://cdn.shopify.com/s/files/1/0339/0901/products/0R4A5823_120x.jpg?v=1669591776",
+"image_5": "https://cdn.shopify.com/s/files/1/0339/0901/products/0R4A5780_120x.jpg?v=1669591781",
+"price": 220,
+"sold" : 25,
+"manufacture_date" : 2010,
+"color" : "red",
+"size" : "S",
+"stock" : true,
+"reviews":[]
+},
+{ 
+"name": "Winter Streets Ponchon",
+"image_1":
+  "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_black_poncho-3_720x.jpg?v=1669394497",
+"image_2":
+  "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_black_poncho_120x.jpg?v=1669394508",
+"image_3": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_black_poncho-5_120x.jpg?v=1669394562",
+"image_4": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_black_poncho-6_120x.jpg?v=1669394562",
+"image_5": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_black_poncho-2_120x.jpg?v=1669394562",
+"price": 120,
+"sold" : 25,
+"manufacture_date" : 2010,
+"color" : "gray",
+"size" : "L",
+"stock" : true,
+"reviews":[]
+},
+{ 
+"name": "All The Charm Split Hem Tee",
+"image_1":
+  "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_blouse-2_720x.jpg?v=1669416355",
+"image_2":
+  "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_blouse-5_f13e4a05-de38-463c-89f8-4eb73985e353_120x.jpg?v=1669416363",
+"image_3": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_blouse-4_6b7b9acf-18db-47ac-bf66-56e421d05c24_540x.jpg?v=1669416362",
+"image_4": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_blouse-6_ee003e76-977d-46d4-872d-d1bb99d08597_120x.jpg?v=1669416365",
+"image_5": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_green_blouse-3_c4a6ec32-98a3-451f-9b6e-672f1718c517_120x.jpg?v=1669416371",
+"price": 20,
+"sold" : 25,
+"manufacture_date" : 2010,
+"color" : "green",
+"size" : "S",
+"stock" : true,
+"reviews":[]
+},
+
+{ 
+"name": "Stay Shining Puff Sleeve Tee",
+"image_1":
+  "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_black_puff_sleeve_top-3_720x.jpg?v=1669416524",
+"image_2":
+  "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_black_puff_sleeve_top-5_540x.jpg?v=1669416529",
+"image_3": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_black_puff_sleeve_top-7_120x.jpg?v=1669416552",
+"image_4": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_black_puff_sleeve_top-8_120x.jpg?v=1669416552",
+"image_5": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_black_puff_sleeve_top-2_120x.jpg?v=1669416552",
+"price": 5,
+"sold" : 15,
+"manufacture_date" : 2021,
+"color" : "black",
+"size" : "M",
+"stock" : true,
+"reviews":[]
+},
+{ 
+"name": "Favorite Cuddles Fuzzy Knit Joggers",
+"image_1":
+  "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_fuzzy_knit_joggers-11_360x.jpg?v=1669425644",
+"image_2":
+  "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_fuzzy_knit_joggers-2_540x.jpg?v=1669425789",
+"image_3": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_fuzzy_knit_joggers-2_120x.jpg?v=1669425789",
+"image_4": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_fuzzy_knit_joggers-3_720x.jpg?v=1669425789",
+"image_5": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_fuzzy_knit_joggers-6_120x.jpg?v=1669425789",
+"price": 55,
+"sold" : 55,
+"manufacture_date" : 2005,
+"color" : "black",
+"size" : "S",
+"stock" : true,
+"reviews":[]
+},
+{ 
+"name": "A Lot Like Love Jumpsuit",
+"image_1":
+  "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_halter_jumpsuit-13_720x.jpg?v=1669415930",
+"image_2":
+  "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_halter_jumpsuit-10_540x.jpg?v=1669415759",
+"image_3": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_halter_jumpsuit_540x.jpg?v=1669415930",
+"image_4": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_halter_jumpsuit-17_120x.jpg?v=1669415930",
+"image_5": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_halter_jumpsuit-4_120x.jpg?v=1669415930",
+"price": 55,
+"sold" : 55,
+"manufacture_date" : 2005,
+"color" : "black",
+"size" : "L",
+"stock" : true,
+"reviews":[]
+},
+{ 
+"name": "Festive Season Tie Back Sweater",
+"image_1":
+  "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_tie_back_sweater-10_540x.jpg?v=1669410277",
+"image_2":
+  "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_tie_back_sweater-13_720x.jpg?v=1669410310",
+"image_3": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_tie_back_sweater-3_120x.jpg?v=1669410310",
+"image_4": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_tie_back_sweater-15_120x.jpg?v=1669410338",
+"image_5": "https://cdn.shopify.com/s/files/1/0339/0901/products/shopdressup_tie_back_sweater-14_120x.jpg?v=1669410380",
+"price": 85,
+"sold" : 55,
+"manufacture_date" : 2015,
+"color" : "black",
+"size" : "S",
+"stock" : true,
+"reviews":[]
+}
+
+
+
+
+]

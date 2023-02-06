@@ -1,0 +1,256 @@
+
+.Links{
+    color: black;
+    padding: 10px;
+    padding-left: 0px;
+    margin: 2px;
+    margin-left: 0%;
+    padding-bottom: 2px;
+   
+}
+.Links:hover{
+    color: black;
+    padding-bottom: 2px;
+    border-bottom: 2px solid green;
+    
+}
+.list_Buttons{
+    padding: 10px;
+    cursor: pointer;
+}
+.list_Buttons:after {
+        display      : block;
+        content      : '';
+        border-bottom: solid 3px rgb(40, 0, 0);
+        transform    : scaleX(0);
+        transition   : transform 300ms ease-in-out;
+}
+    
+.list_Buttons:hover:after {
+        transform: scaleX(1);
+}
+.list_Buttons:after {
+    transform-origin: 0 50%;
+} 
+ #MenuSpans>span{
+    margin-right: 2%;
+ }   
+#NavHomeParent{  
+  position: absolute;
+  height: 100vh;
+  width: 100%;
+  top: 0%;
+  background-color : rgba(68, 66, 66, 0.749);
+}
+#NavHomeParen{
+  display: none;
+}
+#NavHam{
+  top: 0%;
+  left: 0%;
+  width: 60%;
+  background-color: rgb(247, 247, 247);
+  position: absolute;
+  height: 100vh;
+  z-index: 4;
+  animation: divincart 0.3s ease-in-out;
+}
+@keyframes divincart {
+  from {
+      left: -60%;
+  }
+
+  to {
+      left: 0;
+  }
+}
+#CLOSEICON{
+  font-size: 30px;
+  position:relative;
+  left: 85%;
+  cursor: pointer;
+}
+@media (max-width:950px) {
+     #Main_Logo{
+      width: 33%;
+    }
+    #LOGODIV{
+      font-size: 19px
+    }
+} 
+#Nav_heading{
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    animation-name: Heading;
+    animation-duration: 2s;
+    animation-timing-function: ease-out;
+    animation-delay: 1500ms;
+    animation-iteration-count: infinite;
+    position: relative;
+}
+
+@keyframes Heading {
+    0% {
+      bottom: -40px;
+      opacity: 0%;
+    }
+    50% {
+      bottom: -10px;
+      z-index: 0;
+      opacity: 70%;
+    }
+    100% {
+      bottom: 0px;
+      opacity: 100%;
+      z-index: 0;
+    }
+  }
+  .css-5pevwz{
+    width: 100%;
+
+  }
+#SearchDi{
+  display: none;
+}
+#SearchDiv{
+  width: 100%;
+  height: 100vh;
+  position: fixed;
+  top:0%;
+  background-color: rgba(78, 131, 37, 0.4);
+  z-index: 2;
+  
+}
+
+
+#Boxxxxx{
+  padding: 1%;
+  border: 1px solid black;
+  width: 100%;
+  text-align: center;
+  gap: 20px;
+
+}
+
+.image-boxx>div>img{
+  width: 100%;
+  cursor: pointer;
+  height: 390px;
+  
+
+}
+.imageshoww{
+  position: relative;
+ 
+}
+
+.imagehidee>img{
+  width: 100%;
+  height: 390px;
+}
+.imagehidee{
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  object-fit: contain;
+  opacity: 0;
+  transition: opacity .2s;
+}
+.imagehidee:hover{
+  opacity: 1;
+}
+.a-text-detailss{
+  border: 1px solid rgb(11, 224, 11);
+  text-align: center;
+  padding: 10px;
+}
+.quickVieww{
+  text-align: center;
+  width: 95%;
+  left: 2.5%;
+  top: 85%;
+  padding: 8px;
+  position: absolute;
+  font-weight: 500;
+  background-color: #fcfcfc;
+ 
+}
+.quickVieww:hover{
+  background-color: #ccfffe;
+}
+
+.dropbtn {
+  background-color: white !important;
+  color: black;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+
+.logoutbtn:hover{
+ background-color: red !important;
+ color: white;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  right: -48px;
+  top: 60px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown a:hover {background-color: #ddd;}
+
+.show {display: block;}
+
+
+.google__btn> div:nth-child(1){
+  display: none;
+}
+
+.google__btn{
+  border: none;
+    background: red !important;
+    box-shadow: none !important;
+    padding: 3px 24px !important;
+    line-height: 8px;
+    color:#fff !important;
+    border-radius: 4px !important;
+    border:2px solid red !important;
+    font-weight: 500px;
+    transition: 0.3s all;
+
+}
+.google__btn:hover{
+  background-color: #fff !important;
+  border:2px solid red !important;
+  color:#111 !important;
+}
+.icon__btn{
+  padding: 0px 20px;
+  font-size:1.3rem;
+}
+

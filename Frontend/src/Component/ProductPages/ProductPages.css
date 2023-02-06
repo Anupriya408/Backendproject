@@ -1,0 +1,157 @@
+.blackF{
+    padding: 25px;
+    padding-top: 3%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.blackF>h3{
+    width: 200px;
+    font-size: 30px;
+    /* font-size: large; */
+}
+.a-Main-Box{
+    display : flex;
+   margin: auto;
+   margin: 2%;
+   width: 100;
+}
+.a-side-nav{
+    width: 30%;
+    /* height: 100vh; */
+    line-height: 40px;
+}
+/* .a-list-items{
+    width: 100%;
+} */
+.select-box-a{
+    display: flex;
+    /* border: 1px solid black; */
+    align-items: center;
+    justify-content: space-between;
+    padding: 13px;
+}
+.select-box-a>select{
+    width: 24%;
+    padding: 7px;
+    height: 40px;
+    
+}
+
+
+.list-item{
+    padding: 1%;
+    width: 100%;
+    display: grid;
+    text-align: center;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+}
+
+.a-list-items{
+    width: 100%;
+    
+}
+.image-box>div>img{
+    width: 100%;
+    cursor: pointer;
+    height: 520px;
+    
+
+}
+#select{
+    border: 1px solid black;
+}
+.imageshow{
+    position: relative;
+   
+}
+
+.imagehide>img{
+   
+    width: 100%;
+    height: 500px;
+}
+.imagehide{
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    object-fit: contain;
+    opacity: 0;
+    transition: opacity .2s;
+}
+ .imagehide:hover{
+    opacity: 1;
+}
+.a-text-details{
+    
+    padding: 10px;
+}
+.quickView{
+    
+    width: 95%;
+    left: 2.5%;
+    top: 90%;
+    padding: 8px;
+    position: absolute;
+    background-color: #ffffff;
+}
+
+
+
+@media screen and (max-width:1000px){
+    .a-side-nav{
+        display: none;
+    }
+    .list-item{
+        padding: 1%;
+        width: 100%;
+        display: grid;
+        /* flex-wrap: wrap; */
+        text-align: center;
+        gap: 20px;
+        grid-template-columns: repeat(3,1fr);
+    }
+    .imagehide>img{
+   
+        width: 100%;
+        height: 400px;
+    }
+    .image-box>div>img{
+        width: 100%;
+        cursor: pointer;
+        height: 400px;
+        
+    
+    }
+}
+
+@media screen and (max-width:700px){
+    .a-side-nav{
+        display: none;
+    }
+    .list-item{
+        padding: 1%;
+        width: 100%;
+        display: grid;
+        /* flex-wrap: wrap; */
+        text-align: center;
+        gap: 20px;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .imagehide>img{
+   
+        width: 100%;
+        height: 300px;
+    }
+    .image-box>div>img{
+        width: 100%;
+        cursor: pointer;
+        height: 300px;
+        
+    
+    }
+}
